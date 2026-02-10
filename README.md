@@ -27,19 +27,6 @@ This system helps farmers and agricultural experts detect plant diseases early a
 
 ---
 
-## 📂 Project Structure
-
-Plant-Disease-Identification-using-CNN/
-│
-├── static
-├── templates
-├── dataset
-├── model.py 
-├── app.py 
-├── training_plot.png 
-├── requirements.txt 
-├── README.md 
-
 ## ⚙️ Installation & Setup
 
 ### 1️⃣ Clone the repository
@@ -63,8 +50,10 @@ GitHub: https://github.com/TChaitanya999
 
 ### 📸 Output Screenshots
 🏠 Home Page
-<p align="center"> <img src="outputs/homepage.png" width="700"/> </p>
+<p align="center"> <img src="https://github.com/TChaitanya999/Plant_Disease_Detection/blob/main/Screenshot%202026-02-09%20191037.png" width="700"/> </p>
 🍂 Diseased Leaf Prediction
-<p align="center"> <img src="outputs/result_diseased.png" width="700"/> </p>
+<p align="center"> <img src="https://github.com/TChaitanya999/Plant_Disease_Detection/blob/main/Screenshot%202026-02-09%20190200.png" width="700"/> </p>
+
+
 
 
