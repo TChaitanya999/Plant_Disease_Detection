@@ -56,3 +56,15 @@ python app.py
 ### 4️⃣ Open in browser
 http://127.0.0.1:5000/
 
+### 👨‍💻 Author
+
+Chaitanya Sri Vignesh
+GitHub: https://github.com/TChaitanya999
+
+### 📸 Output Screenshots
+🏠 Home Page
+<p align="center"> <img src="outputs/homepage.png" width="700"/> </p>
+🍂 Diseased Leaf Prediction
+<p align="center"> <img src="outputs/result_diseased.png" width="700"/> </p>
+
+
