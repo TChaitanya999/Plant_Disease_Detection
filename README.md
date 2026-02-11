@@ -48,12 +48,5 @@ http://127.0.0.1:5000/
 Chaitanya Sri Vignesh
 GitHub: https://github.com/TChaitanya999
 
-### 📸 Output Screenshots
-🏠 Home Page
-<p align="center"> <img src="https://github.com/TChaitanya999/Plant_Disease_Detection/blob/main/Screenshot%202026-02-09%20191037.png" width="700"/> </p>
-🍂 Diseased Leaf Prediction
-<p align="center"> <img src="https://github.com/TChaitanya999/Plant_Disease_Detection/blob/main/Screenshot%202026-02-09%20190200.png" width="700"/> </p>
-
-
 
 
